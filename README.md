@@ -15,3 +15,4 @@
 | ensemble_weighted_avg_submission.csv | 12.84248 |      |
 |      xgboost_w2v_submission.csv      | 12.76206 |  1  |
 | xgboost_w2v_n_iter_20_submission.csv | 12.77675 |      |
+|   stacking_ensemble_submission.csv   | 12.98128 |      |
